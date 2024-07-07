@@ -34,5 +34,3 @@ Over the past two years, I transitioned from strategic consulting to coding. Alo
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/CheeloHamududu/LogisticsShippingRates" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CheeloHamududu&repo=LogisticsShippingRates&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/CheeloHamududu/Csharpprojects" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CheeloHamududu&repo=Csharpprojects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3d98649f-3a90-4dfb-ab4a-fe4229b12db8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
