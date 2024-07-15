@@ -7,7 +7,7 @@ DevOps Engineer
 Over the past two years, I transitioned from strategic consulting to coding. Along the way, I discovered my passion for Data Science and DevOps .
 
 * 🖥️  See my portfolio at [Kaggle](http://www.kaggle.com/cheelohamududu)
-* 🚀  I'm currently working on [Miroverse Templates](http://miro.com/miroverse/profile/cheelo-hamududu/?social=copy-link)
+* 🚀  I'm currently working on [Miroverse Templates](http://miro.pxf.io/CodeCheelo)
 * 🧠  I'm learning IBM DevOps and Software Engineering Professional Certificate
 * 🤝  I'm open to collaborating on all types of projects
 
