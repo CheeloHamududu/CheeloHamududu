@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Google Cloud**
 
-- 👯 I’m looking to collaborate on [Merchant App Card](https://app.uizard.io/p/7f85c882)
-
-- 👨‍💻 All of my projects are available at [https://devpost.com/cheelohamududu](https://devpost.com/cheelohamududu)
+- 👯 I’m looking to collaborate on all types of projects
 
 - 💬 Ask me about **DevOps and Data science**
 
