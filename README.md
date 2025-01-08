@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Miro Verse Template's](https://miro.com/miroverse/profile/cheelo-hamududu/)
 
-- 🌱 I’m currently learning **Google Cloud**
+- 🌱 I’m currently learning **AWS**
 
 - 👯 I’m looking to collaborate on all types of projects
 
