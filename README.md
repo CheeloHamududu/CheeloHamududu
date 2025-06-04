@@ -9,9 +9,16 @@
 - 💬 Ask me about **DevOps and Data science**
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CheeloHamududu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=CheeloHamududu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CheeloHamududu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CheeloHamududu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🛠️ DevOps & Data Science Stack:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CheeloHamududu&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CheeloHamududu&theme=github_dark)
+
+## 📈 Contribution Graph:
+![](https://activity-graph.herokuapp.com/graph?username=CheeloHamududu&theme=github-dark)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
