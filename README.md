@@ -18,7 +18,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CheeloHamududu&theme=github_dark)
 
 ## 📈 Contribution Graph:
-![](https://activity-graph.herokuapp.com/graph?username=CheeloHamududu&theme=github-dark)
+![](https://github-readme-activity-graph.vercel.app/graph?username=CheeloHamududu&theme=github-dark)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
