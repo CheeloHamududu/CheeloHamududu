@@ -10,7 +10,6 @@
 
 ## 🛠️ DevOps & Data Science Stack:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CheeloHamududu&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CheeloHamududu&theme=github_dark)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
