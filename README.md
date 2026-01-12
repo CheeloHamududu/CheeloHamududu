@@ -15,21 +15,30 @@
 
 ## 📊 GitHub Analytics:
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CheeloHamududu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheeloHamududu&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CheeloHamududu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheeloHamududu&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CheeloHamududu&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=CheeloHamududu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 📌 Featured Projects:
 <div align="center">
   <a href="https://github.com/CheeloHamududu/CheeloHamududu">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CheeloHamududu&repo=CheeloHamududu&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CheeloHamududu&repo=CheeloHamududu&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/CheeloHamududu/aws-devops-zero-to-hero">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CheeloHamududu&repo=aws-devops-zero-to-hero&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CheeloHamududu&repo=aws-devops-zero-to-hero&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/CheeloHamududu/kubernetes-zero-to-hero">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CheeloHamududu&repo=kubernetes-zero-to-hero&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/CheeloHamududu/terraform-zero-to-hero">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CheeloHamududu&repo=terraform-zero-to-hero&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
