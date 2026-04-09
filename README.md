@@ -18,10 +18,6 @@
   <img src="https://skillicons.dev/icons?i=python,aws,docker,kubernetes,terraform,jenkins,git,linux,mongodb,postgresql,grafana,prometheus" />
 </div>
 
-## 📈 Contribution Journey:
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CheeloHamududu&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" />
-</div>
 
 ## 🌐 Let's Connect:
 <div align="center">
