@@ -18,14 +18,6 @@
   <img src="https://skillicons.dev/icons?i=python,aws,docker,kubernetes,terraform,jenkins,git,linux,mongodb,postgresql,grafana,prometheus" />
 </div>
 
-
-## 🌐 Let's Connect:
-<div align="center">
-  <a href="https://kaggle.com/cheelohamududu">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
-  </a>
-</div>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=CheeloHamududu&style=for-the-badge&color=brightgreen" alt="Profile Views" />
 </div>
